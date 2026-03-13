@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": "Peter",
+        "news": [
+            {
+                "icon": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
+                "description": "Olá Peter!\n        Que tal começar a investir hoje?\n        Pequenas decisões financeiras podem\n        construir um grande futuro."
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Hyago",
+        "news": [
+            {
+                "icon": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
+                "description": "Olá Hyago!\n        Que tal começar a investir hoje?\n        Pequenas decisões financeiras podem\n        construir um grande futuro."
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Jorge",
+        "news": [
+            {
+                "icon": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
+                "description": "Olá Jorge!\n        Que tal começar a investir hoje?\n        Pequenas decisões financeiras podem\n        construir um grande futuro."
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Samira",
+        "news": [
+            {
+                "icon": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
+                "description": "Olá Samira!\n        Que tal começar a investir hoje?\n        Pequenas decisões financeiras podem\n        construir um grande futuro."
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Lidia",
+        "news": [
+            {
+                "icon": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
+                "description": "Olá Lidia!\n        Que tal começar a investir hoje?\n        Pequenas decisões financeiras podem\n        construir um grande futuro."
+            }
+        ]
+    }
+]
